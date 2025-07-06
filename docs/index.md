@@ -9,7 +9,7 @@ lastpage:
 ```
 
 ```{project-heading}
-An API standard for reinforcement learning with a diverse collection of reference environments
+强化学习的API标准，拥有多样化的参考环境集合
 ```
 
 ```{figure} _static/videos/box2d/lunar_lander.gif
@@ -17,7 +17,7 @@ An API standard for reinforcement learning with a diverse collection of referenc
    :width: 500
 ```
 
-**Gymnasium is a maintained fork of OpenAI’s Gym library.** The Gymnasium interface is simple, pythonic, and capable of representing general RL problems, and has a [migration guide](introduction/migration_guide) for old Gym environments:
+**Gymnasium是OpenAI的Gym库的维护分支。** Gymnasium接口简单、符合Python风格，能够表示通用的强化学习问题，并为旧版Gym环境提供了[迁移指南](introduction/migration_guide)：
 
 ```{code-block} python
 import gymnasium as gym
