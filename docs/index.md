@@ -17,7 +17,7 @@ lastpage:
    :width: 500
 ```
 
-**Gymnasium是OpenAI的Gym库的维护分支。** Gymnasium接口简单、符合Python风格，能够表示通用的强化学习问题，并为旧版Gym环境提供了[迁移指南](introduction/migration_guide)：
+**Gymnasium是OpenAI的Gym库的维护分支。** 本文是官方文档的中文翻译。Gymnasium接口简单、符合Python风格，能够表示通用的强化学习问题，并为旧版Gym环境提供了[迁移指南](introduction/migration_guide)：
 
 ```{code-block} python
 import gymnasium as gym
